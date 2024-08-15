@@ -1,1 +1,1 @@
-global web3 app integratef with AI tools
+global web3 app integrate with AI tools
